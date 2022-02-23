@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,popkontv.com
 DOMAIN-SUFFIX,popkontv.hscdn.com
 DOMAIN-SUFFIX,livestar.co.kr
 DOMAIN-SUFFIX,onestore.co.kr
+IP-CIDR,175.125.23.0/24,no-resolve
