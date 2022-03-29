@@ -1,11 +1,12 @@
 # 内容：韩国直播
 # 数量：7
-DOMAIN-SUFFIX,winktv.co.kr
-DOMAIN-SUFFIX,neolive.kr
-DOMAIN-SUFFIX,pandalive.co.kr
-DOMAIN-SUFFIX,afreecatv.com
-DOMAIN-SUFFIX,popkontv.com
-DOMAIN-SUFFIX,popkontv.hscdn.com
-DOMAIN-SUFFIX,livestar.co.kr
-DOMAIN-SUFFIX,onestore.co.kr
-IP-CIDR,175.125.23.0/24,no-resolve
+payload:
+  - DOMAIN-SUFFIX,winktv.co.kr
+  - DOMAIN-SUFFIX,neolive.kr
+  - DOMAIN-SUFFIX,pandalive.co.kr
+  - DOMAIN-SUFFIX,afreecatv.com
+  - DOMAIN-SUFFIX,popkontv.com
+  - DOMAIN-SUFFIX,popkontv.hscdn.com
+  - DOMAIN-SUFFIX,livestar.co.kr
+  - DOMAIN-SUFFIX,onestore.co.kr
+  - IP-CIDR,175.125.23.0/24,no-resolve
