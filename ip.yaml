@@ -1,1 +1,3 @@
-hjh
+# ip检测
+ip:
+  - DOMAIN-SUFFIX,myip.ipip.net
